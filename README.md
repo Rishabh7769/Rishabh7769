@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
 <h3 align="center">A passionate frontend and fullstack developer from India.</h3>
 
-- 🔭 I’m currently working on **Library Management Syatem**
+- 🔭 I’m currently working on **Library Management System**
 
 - 🌱 I’m currently learning **React,**
 
